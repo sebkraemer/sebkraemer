@@ -1,4 +1,4 @@
-<a href="https://www.starfinanz.de/"><img src="https://github.com/sebkraemer/sebkraemer/raw/main/assets/SFbanner.jpg" title="Star Finanz" alt="Star Finanz" height="200" /></a> 
+<a href="https://www.starfinanz.de/"><img src="https://github.com/sebkraemer/sebkraemer/raw/main/assets/Xing_Banner-1280x624-px_Digital.png" title="Star Finanz" alt="Star Finanz" height="200" /></a> 
 
 <br>
 
