@@ -1,5 +1,4 @@
-<a href="https://www.starfinanz.de/"><img src="https://github.com/sebkraemer/sebkraemer/raw/main/assets/Xing_Banner-1280x624-px_Digital.png" title="Star Finanz" alt="Star Finanz" height="200" /></a> 
-
+<a href="https://digital.salt-and-pepper.eu"><img src="https://github.com/sebkraemer/sebkraemer/raw/main/assets/Xing_Banner-1280x624-px_Digital.png" title="Salt'N'Pepper Digital" alt="Salt'N'Pepper Digital" height="250" /></a> 
 <br>
 
 <a href="https://twitter.com/seb_kraemer"><img src="https://cdn.worldvectorlogo.com/logos/twitter-6.svg" title="Twitter" alt="Twitter Account" height="30"/></a> 
